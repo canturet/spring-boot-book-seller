@@ -1,0 +1,8 @@
+{
+  "name": "canturet-book-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
